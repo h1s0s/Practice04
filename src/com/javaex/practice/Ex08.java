@@ -4,8 +4,7 @@ public class Ex08 {
 
 	public static void main(String[] args) {
 		//Ex08 배열을 사용하여 1~45까지의 숫자 중 임의의 6개의 숫자를 출력하세요-미니로또
-		//
-		//다시 짜보기. 단순하게 생각하기!!
+		//단순하게 생각하기
 		int[] lottoArray = new int[6];
 		
 		for(int i=0; i<lottoArray.length; i++) {
